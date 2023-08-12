@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jananivijaykumar09
-- 👀 I’m interested in full stack developement
-- 🌱 I’m currently learning python
+- 👀 I’m interested in full stack developement and data engineering
+- 🌱 I’m currently learning java
 - 📫 How to reach me jananish09@gmail.com
 - LinkedIn -"https://www.linkedin.com/in/janani-vijayakumar-514677202/"
 
